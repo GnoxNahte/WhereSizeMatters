@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7099a1e2d8e314c4da2c94cd40682d57, type: 3}
+  m_Name: Level Generation Settings
+  m_EditorClassIdentifier: 
+  tiles:
+  - tile: {fileID: 11400000, guid: fdfb3abe5516e1044acb79c40bb6748f, type: 2}
+  - tile: {fileID: 11400000, guid: a27d8700524cd174383b1ab3e280a6d0, type: 2}
+  perlinNoiseScale: 0.055
+  size: {x: 256, y: 256}

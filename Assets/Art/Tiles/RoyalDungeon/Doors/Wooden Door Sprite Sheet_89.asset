@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Royal Dungeon Tileset_21
+  m_Name: Wooden Door Sprite Sheet_89
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 191314995, guid: 233b1cc10d9dd4d4ab2338f304972820, type: 3}
+  m_Sprite: {fileID: 785024449, guid: 16fa169149915254aacac50d1ab3d495, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a7d63bcdd05ebc648afb9beb09094541
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PreviewGrid: {instanceID: 0}
+  - FloorIcon: {fileID: 2800000, guid: 463b3920b28db914d93bdf5fd6423ca6, type: 3}
+  - WallIcon: {fileID: 2800000, guid: d6094b3678055f343b50a47eca05fd9d, type: 3}
+  - DoorIcon: {fileID: 2800000, guid: 2839b8a0c824be144af9f3fb44c0e31b, type: 3}
+  - VoidIcon: {fileID: 2800000, guid: 2afe65a89fd98fc46ac4ae38418989e3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
